@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/245933976.svg)](https://zenodo.org/badge/latestdoi/245933976)
+
 # Approaches for integrating heterogeneous RNA-seq data reveals cross-talk between microbes and genes in asthmatic patients
 
 Daniel Spakowicz\*1,2,3,4, Shaoke Lou\*1, Brian Barron1, Jose L Gomez5, Tianxiao Li1, Qing Liu5, Nicole Grant5, Xiting Yan5, Rebecca Hoyd3, George Weinstock2, Geoffrey L Chupp5, Mark Gerstein1,6,7,8
